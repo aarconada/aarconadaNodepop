@@ -14,7 +14,7 @@ Iniciar la base de datos:
         -clave:12345
     Limpia la base de datos de anuncios e incluye el del iphone y el de la bici
 
-Registrar nuevos usuarios:
+Registrar nuevos usuarios (sign):
 
     POST: http://localhost:3000/api/v1/usuarios/sign
     Incluyendo los campos:
