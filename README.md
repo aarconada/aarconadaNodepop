@@ -1,3 +1,11 @@
+#aarconadaPracticaDevOps
+
+Práctica creada por Álvaro Arconada para el bloque devOps
+
+DNS Pública: ec2-52-87-239-247.compute-1.amazonaws.com
+
+IP: 52.87.239.247
+
 # aarconadaPracticaNode
 
 Práctica creada por Álvaro Arconada para el bloque de nodejs
