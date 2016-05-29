@@ -2,9 +2,9 @@
 
 Práctica creada por Álvaro Arconada para el bloque devOps
 
-DNS Pública: ec2-52-87-239-247.compute-1.amazonaws.com
+DNS Pública: http://ec2-52-87-239-247.compute-1.amazonaws.com
 
-IP: 52.87.239.247
+IP: http://52.87.239.247
 
 imágenes:
 http://ec2-52-87-239-247.compute-1.amazonaws.com/images/anuncios/iphone.png
